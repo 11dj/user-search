@@ -1,0 +1,80 @@
+.Container {
+
+  width:60%;
+  margin: 0 auto;
+
+}
+
+.Userlogo {
+  height: 150px;
+}
+
+.body {
+  background-color: lightcyan;
+  height: 800px;
+  padding: 20px;
+  color: black;
+}
+
+.Div-Search {
+  background-color: transparent;
+  align-items: center;
+  
+}
+
+.Div-detail {
+  margin-top: 40px;
+  background-color: white;
+  height: 600px;
+  box-shadow: 3px 3px 10px 1px rgba(0,0,0,0.27);
+  padding-top: 30px;
+  border-radius: 5px;
+}
+
+.Div-logo {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: transparent;
+}
+
+.Followlogo {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.fol {
+  background-color: transparent;
+  overflow: auto;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.Div-list {
+  margin-top: 50px;
+}
+
+.DivListfol {
+  background-color: transparent;
+  vertical-align:middle;
+
+  height: 50px;
+  margin: 5px;
+
+}
+
+.DivListrepo {
+  background-color: transparent;
+  vertical-align:middle;
+
+  height: 50px;
+  margin-top: 16px;
+  margin-left: 5px;
+
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
